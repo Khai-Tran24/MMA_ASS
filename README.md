@@ -28,7 +28,3 @@ Then, follow these steps to run the project locally:
      ```bash
      npm run ios
      ```
-5. Open your browser and go to:
-   ```bash
-   http://localhost:5000/
-   ```
